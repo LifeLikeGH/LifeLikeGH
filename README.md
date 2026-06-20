@@ -15,6 +15,10 @@ I am a game developer with a few years of experience working in a small studio.
 
 I'm currently getting my Masters in Computer Science from Florida Polytechnic University.
 
+## Github Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LifeLikeGH&show_icons=true)
+
 </details>
 
 <!--
