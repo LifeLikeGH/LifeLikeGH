@@ -8,7 +8,6 @@ I am a game developer with a few years of experience working in a small studio.
 ## Check out some of my work
 [Itch](https://lifelike.itch.io/) [Linkdin](https://www.linkedin.com/in/dsmith-smith-236847309/)
 
-https://yt3.googleusercontent.com/ytc/AIdro_kLPXPsWfJ6NhQqbZA8RTgs_tZc-my-bvASFAvMOB7soQ=s900-c-k-c0x00ffffff-no-rj
 ---
 ## Current work
 ---
