@@ -1,5 +1,14 @@
-## Hi there 👋
-
+## Hi, I'm Dominic Smith
+---
+I am a game developer with a few years of experience working in a small studio.
+---
+#Check out some of my work
+[Itch.io](https://lifelike.itch.io/) [Linkdin](https://www.linkedin.com/in/dsmith-smith-236847309/)
+---
+#current work
+---
+I'm currently getting my Masters in Computer Science from Florida Polytechnic university.
+---
 <!--
 **LifeLikeGH/LifeLikeGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
