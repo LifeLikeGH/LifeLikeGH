@@ -1,11 +1,11 @@
-## Hi, I'm Dominic Smith
+# Hi, I'm Dominic Smith
 ---
 I am a game developer with a few years of experience working in a small studio.
 ---
-#Check out some of my work
+## Check out some of my work
 [Itch.io](https://lifelike.itch.io/) [Linkdin](https://www.linkedin.com/in/dsmith-smith-236847309/)
 ---
-#current work
+## Current work
 ---
 I'm currently getting my Masters in Computer Science from Florida Polytechnic university.
 ---
