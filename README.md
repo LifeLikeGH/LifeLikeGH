@@ -6,10 +6,12 @@ I am a game developer with a few years of experience working in a small studio.
 <summary>Learn More</summary>
   
 ## Check out some of my work
+
 [Itch](https://lifelike.itch.io/) [Linkdin](https://www.linkedin.com/in/dsmith-smith-236847309/)
 
 ---
 ## Current work
+
 I'm currently getting my Masters in Computer Science from Florida Polytechnic University.
 ---
 
