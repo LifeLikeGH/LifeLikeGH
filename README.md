@@ -10,7 +10,6 @@ I am a game developer with a few years of experience working in a small studio.
 
 ---
 ## Current work
----
 I'm currently getting my Masters in Computer Science from Florida Polytechnic University.
 ---
 
