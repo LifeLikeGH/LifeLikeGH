@@ -2,15 +2,21 @@
 ---
 I am a game developer with a few years of experience working in a small studio.
 ---
+<details>
+<summary>Learn More</summary>
+  
 ## Check out some of my work
-[![Itch](https://yt3.googleusercontent.com/ytc/AIdro_kLPXPsWfJ6NhQqbZA8RTgs_tZc-my-bvASFAvMOB7soQ=s900-c-k-c0x00ffffff-no-rj)](https://lifelike.itch.io/) [Linkdin](https://www.linkedin.com/in/dsmith-smith-236847309/)
+[Itch](https://lifelike.itch.io/) [Linkdin](https://www.linkedin.com/in/dsmith-smith-236847309/)
 
 https://yt3.googleusercontent.com/ytc/AIdro_kLPXPsWfJ6NhQqbZA8RTgs_tZc-my-bvASFAvMOB7soQ=s900-c-k-c0x00ffffff-no-rj
 ---
 ## Current work
 ---
-I'm currently getting my Masters in Computer Science from Florida Polytechnic university.
+I'm currently getting my Masters in Computer Science from Florida Polytechnic University.
 ---
+
+</details>
+
 <!--
 **LifeLikeGH/LifeLikeGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,6 +32,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://lifelike.itch.io/">
-  <img src="images/game.png" width="300">
-</a>
